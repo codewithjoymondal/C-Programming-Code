@@ -1,5 +1,7 @@
-/*I Am Joy Mondal. My Website https://codewithjoymondal.com
- My Youtube Channel is */
+/*I Am Joy Mondal. My Website https://codewithjoymondal.com */
+//This Code Solved By Joy Mondal (codewithjoymonda) WUB 53A
+//If You Want to learn more code visite my youtube channel : Codewithjoy
+//https://www.youtube.com/c/CodeWithJoy
 
 #include<stdio.h>
 int main()
