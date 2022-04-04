@@ -1,5 +1,5 @@
-//This Code Solved By Joy Mondal (codewithjoymonda) WUB 53A
-//If You Want to learn more code visite my youtube channel : Codewithjoy
+//This Code Solved By Joy Mondal (codewithjoymondal) WUB 53A
+//If You Want to learn more code visite my youtube channel : Joy Mondal
 //https://www.youtube.com/c/CodeWithJoy
 
 #include <stdio.h>
